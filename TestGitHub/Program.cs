@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello TTZ");
+﻿Console.WriteLine("Hello Mg Nyan");
